@@ -22,3 +22,16 @@ The app displays weather information in two formats:
    ```bash
    git clone <your-repository-url>
    cd weather-forecast-app
+   ```
+
+2. **Install required dependencies**:
+   ```bash
+   pip install streamlit plotly requests
+   ```
+
+## Usage
+
+1. **Run the application**:
+   ```bash
+   streamlit run main.py
+   ```
